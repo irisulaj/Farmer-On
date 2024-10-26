@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rRZoOdQPJX+FsS7jRABYG6lL7b+WhO3gFAMTbgoPDq4=",
+  "Source": "FarmerOn.API",
+  "BasePath": "_content/FarmerOn.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

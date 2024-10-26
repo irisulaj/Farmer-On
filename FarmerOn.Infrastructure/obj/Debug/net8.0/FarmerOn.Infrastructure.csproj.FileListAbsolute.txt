@@ -1,0 +1,11 @@
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\bin\Debug\net8.0\FarmerOn.Infrastructure.deps.json
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\bin\Debug\net8.0\FarmerOn.Infrastructure.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\bin\Debug\net8.0\FarmerOn.Infrastructure.pdb
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\obj\Debug\net8.0\FarmerOn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\obj\Debug\net8.0\FarmerOn.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\obj\Debug\net8.0\FarmerOn.Infrastructure.AssemblyInfo.cs
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\obj\Debug\net8.0\FarmerOn.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\obj\Debug\net8.0\FarmerOn.Infrastructure.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\obj\Debug\net8.0\refint\FarmerOn.Infrastructure.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\obj\Debug\net8.0\FarmerOn.Infrastructure.pdb
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Infrastructure\obj\Debug\net8.0\ref\FarmerOn.Infrastructure.dll

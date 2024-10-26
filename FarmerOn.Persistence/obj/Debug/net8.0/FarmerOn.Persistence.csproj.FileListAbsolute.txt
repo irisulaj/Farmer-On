@@ -1,0 +1,11 @@
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\bin\Debug\net8.0\FarmerOn.Persistence.deps.json
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\bin\Debug\net8.0\FarmerOn.Persistence.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\bin\Debug\net8.0\FarmerOn.Persistence.pdb
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\obj\Debug\net8.0\FarmerOn.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\obj\Debug\net8.0\FarmerOn.Persistence.AssemblyInfoInputs.cache
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\obj\Debug\net8.0\FarmerOn.Persistence.AssemblyInfo.cs
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\obj\Debug\net8.0\FarmerOn.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\obj\Debug\net8.0\FarmerOn.Persistence.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\obj\Debug\net8.0\refint\FarmerOn.Persistence.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\obj\Debug\net8.0\FarmerOn.Persistence.pdb
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Persistence\obj\Debug\net8.0\ref\FarmerOn.Persistence.dll

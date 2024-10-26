@@ -1,0 +1,15 @@
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\bin\Debug\net8.0\FarmerOn.Application.deps.json
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\bin\Debug\net8.0\FarmerOn.Application.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\bin\Debug\net8.0\FarmerOn.Application.pdb
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\bin\Debug\net8.0\FarmerOn.Domain.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\bin\Debug\net8.0\FarmerOn.Domain.pdb
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\obj\Debug\net8.0\FarmerOn.Application.csproj.AssemblyReference.cache
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\obj\Debug\net8.0\FarmerOn.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\obj\Debug\net8.0\FarmerOn.Application.AssemblyInfoInputs.cache
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\obj\Debug\net8.0\FarmerOn.Application.AssemblyInfo.cs
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\obj\Debug\net8.0\FarmerOn.Application.csproj.CoreCompileInputs.cache
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\obj\Debug\net8.0\FarmerOn.C2ABFA68.Up2Date
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\obj\Debug\net8.0\FarmerOn.Application.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\obj\Debug\net8.0\refint\FarmerOn.Application.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\obj\Debug\net8.0\FarmerOn.Application.pdb
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Application\obj\Debug\net8.0\ref\FarmerOn.Application.dll

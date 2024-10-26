@@ -1,0 +1,11 @@
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\bin\Debug\net8.0\FarmerOn.Domain.deps.json
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\bin\Debug\net8.0\FarmerOn.Domain.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\bin\Debug\net8.0\FarmerOn.Domain.pdb
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\obj\Debug\net8.0\FarmerOn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\obj\Debug\net8.0\FarmerOn.Domain.AssemblyInfoInputs.cache
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\obj\Debug\net8.0\FarmerOn.Domain.AssemblyInfo.cs
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\obj\Debug\net8.0\FarmerOn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\obj\Debug\net8.0\FarmerOn.Domain.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\obj\Debug\net8.0\refint\FarmerOn.Domain.dll
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\obj\Debug\net8.0\FarmerOn.Domain.pdb
+C:\Users\Iri\source\repos\FarmerOn\FarmerOn.Domain\obj\Debug\net8.0\ref\FarmerOn.Domain.dll
